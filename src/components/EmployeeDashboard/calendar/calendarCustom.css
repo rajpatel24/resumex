@@ -1,0 +1,20 @@
+.fc-day-number {
+    font-size: 1.5em;
+    color: #5c005c;
+  }
+
+.fc-day-header {
+font-size: 1.5em;
+color: #00b294;
+}
+
+a {
+    color: black;
+    text-decoration: underline;
+}
+
+.fc .fc-col-header-cell-cushion {
+    display: inline-block;
+    padding: 2 px 4 px;
+    text-decoration: none;
+}
